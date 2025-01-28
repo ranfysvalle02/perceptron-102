@@ -2,7 +2,7 @@
 
 ---
 
-# Perceptron Learning in Action: Predicting Student Performance  
+# Perceptron Learning in Action
    
 ---  
    
@@ -12,7 +12,7 @@
    
 ## Introduction  
    
-In our previous blog post, **[Unveiling the Perceptron: How Simple Ideas Power Modern AI](https://github.com/ranfysvalle02/perceptron-101)**, we explored the foundational concepts of the perceptron—a simple yet powerful model that forms the basis of modern neural networks. We learned how a perceptron makes decisions by weighing inputs, summing them up, and applying an activation function.  
+In our previous blog post, **[How Simple Ideas Power Modern AI](https://github.com/ranfysvalle02/perceptron-101)**, we explored the foundational concepts of the perceptron—a simple yet powerful model that forms the basis of modern neural networks. We learned how a perceptron makes decisions by weighing inputs, summing them up, and applying an activation function.  
    
 Now, let's take a step further and see the perceptron in action! We'll teach a perceptron to learn from data—specifically, we'll train it to predict whether a student will pass or fail based on their test scores. This journey will demystify the learning process, show how weights and biases are adjusted, and illustrate how machines can improve over time.  
    
